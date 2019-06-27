@@ -1,0 +1,7 @@
+,expr_itr,variant,eval_type,value
+0,0,v0,avg_discounted_return,57.356394353828684
+1,0,v0,avg_undiscounted_return,265.5666270948842
+2,0,v0,avg_traj_length,496.98
+3,0,v0,avg_displacement, 4.7006956260270565
+4,0,v0,avg_boundaries_left,0.01
+5,0,v0,avg_norm_displacement, 0.9945950831078646
